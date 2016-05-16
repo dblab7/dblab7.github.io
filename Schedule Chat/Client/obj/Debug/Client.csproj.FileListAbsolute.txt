@@ -1,0 +1,261 @@
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\bin\Debug\Client.exe
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\bin\Debug\Client.pdb
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Cilent.resources
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.exe
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.pdb
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Form3.resources
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Form2.resources
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Form4.resources
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Form5.resources
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Form6.resources
+C:\Documents and Settings\LMJ\바탕 화면\Client\Client\obj\Debug\Client.Form7.resources
+D:\Entertainment\MY Data\C#\Client-v1.4\Client\obj\Debug\Client.exe
+D:\Entertainment\MY Data\C#\Client-v1.4\Client\obj\Debug\Client.pdb
+E:\Entertainment\MY Data\C#\Exam\Client-v1.4\Client\obj\Debug\Client.exe
+E:\Entertainment\MY Data\C#\Exam\Client-v1.4\Client\obj\Debug\Client.pdb
+E:\Entertainment\MY Study\C#\Client-v1.4\Client\obj\Debug\Client.exe
+E:\Entertainment\MY Study\C#\Client-v1.4\Client\obj\Debug\Client.pdb
+D:\Data\programming\C#\Client-v1.4\Client\obj\Debug\Client.exe
+D:\Data\programming\C#\Client-v1.4\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\bin\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\bin\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\bin\Debug\MySql.Data.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Cilent.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Form2.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Form3.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Form4.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Form5.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Form6.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Form7.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Properties.Resources.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\Client-v1.4\Client\obj\Debug\Client.Form8.resources
+C:\Users\FAN\Desktop\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.exe
+C:\Users\FAN\Desktop\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.pdb
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.exe
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.pdb
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\bin\Debug\Client.exe
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\bin\Debug\Client.pdb
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Cilent.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form2.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form3.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form4.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form5.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form6.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form7.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form8.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Properties.Resources.resources
+D:\3-2\Software Engineering\Project\taesik\Client-v1.4 (2)\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.exe
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Cilent.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form2.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form3.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form4.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form5.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form6.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form7.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Form8.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.Properties.Resources.resources
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\bin\Debug\Client.exe
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\bin\Debug\Client.pdb
+D:\3-2\Software Engineering\Project\taesik\151128 0844\Client-v1.4\Client-v1.4\Client\obj\Debug\Client.pdb
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.exe
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.pdb
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\bin\Debug\Client.exe
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\bin\Debug\Client.pdb
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Cilent.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Form2.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Form3.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Form4.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Form5.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Form6.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Form7.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Form8.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.Properties.Resources.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\151130 1044\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.exe
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.pdb
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\bin\Debug\Client.exe
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\bin\Debug\Client.pdb
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.Cilent.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.ReceiveView.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.SendView.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.AddFriendView.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.ReplyView.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.SenderChatView.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.ReceiverChatView.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.SchduleView.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.Properties.Resources.resources
+D:\하태식 폴더\강의자료실\3학년 2학기\소프트웨어 공학\1204\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.exe
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.pdb
+C:\Users\user\Downloads\1206\Client\bin\Debug\Client.exe
+C:\Users\user\Downloads\1206\Client\bin\Debug\Client.pdb
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.Cilent.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.ReceiveView.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.SendView.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.AddFriendView.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.ReplyView.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.SenderChatView.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.ReceiverChatView.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.SchduleView.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\user\Downloads\1206\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.exe
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.pdb
+D:\3-2\Software Engineering\Project\호재 최종본\Client\bin\Debug\Client.exe
+D:\3-2\Software Engineering\Project\호재 최종본\Client\bin\Debug\Client.pdb
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.Cilent.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.ReceiveView.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.SendView.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.AddFriendView.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.ReplyView.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.SenderChatView.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.ReceiverChatView.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.SchduleView.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.Properties.Resources.resources
+D:\3-2\Software Engineering\Project\호재 최종본\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.exe
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.pdb
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.Cilent.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.ReceiveView.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.SendView.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.AddFriendView.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.ReplyView.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.SenderChatView.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.ReceiverChatView.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.SchduleView.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\user\Downloads\대호 코드\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\대호 코드\Client\bin\Debug\Client.exe
+C:\Users\user\Downloads\대호 코드\Client\bin\Debug\Client.pdb
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.exe
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.pdb
+C:\Users\user\Desktop\대호재 코드\Client\bin\Debug\Client.exe
+C:\Users\user\Desktop\대호재 코드\Client\bin\Debug\Client.pdb
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.ReceiveView.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.SendView.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.AddFriendView.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.ReplyView.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.SenderChatView.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.ReceiverChatView.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.SchduleView.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\대호재 코드\Client\obj\Debug\Client.Clients.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.exe
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.pdb
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\bin\Debug\Client.exe
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\bin\Debug\Client.pdb
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.Clients.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.ReceiveView.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.SendView.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.AddFriendView.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.ReplyView.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.SenderChatView.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.ReceiverChatView.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.SchduleView.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\user\Desktop\대호재 코드 시즌2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.exe
+C:\Users\user\Desktop\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\bin\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\bin\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\bin\Debug\MySql.Data.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Clients.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReceiveView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.AddFriendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReplyView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SenderChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReceiverChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SchduleView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Properties.Resources.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.xml
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Form2.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\bin\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\bin\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\bin\Debug\MySql.Data.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.xml
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Form2.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Clients.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReceiveView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.AddFriendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReplyView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SenderChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReceiverChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SchduleView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Properties.Resources.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\simter\Desktop\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.exe
+C:\Users\simter\Desktop\대호재 코드 시즌3 예고편\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\bin\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\bin\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\bin\Debug\MySql.Data.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\bin\Debug\Calendar.NET.xml
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Form2.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Clients.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReceiveView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.AddFriendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReplyView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.SenderChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.ReceiverChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Properties.Resources.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.Form1.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\대호재 코드 시즌3 예고편\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\bin\Debug\Client.exe
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\bin\Debug\Client.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\bin\Debug\Calendar.NET.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\bin\Debug\MySql.Data.dll
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\bin\Debug\Calendar.NET.pdb
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\bin\Debug\Calendar.NET.xml
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.Clients.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.ReceiveView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.SendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.AddFriendView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.ReplyView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.SenderChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.ReceiverChatView.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.Properties.Resources.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.ScheduleWindow.resources
+D:\바탕화면\학부수업\3학년 2학기\소프트웨어공학\코드\대호재 코드 시즌3 극장판 천만관객 돌파\Client\obj\Debug\Client.ScheduleDelete.resources
