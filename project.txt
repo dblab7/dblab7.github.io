@@ -1,4 +1,0 @@
-TRED_dblab : 자바 Spring framwork - 실시간 재난탐지시스템
-TRED_System : 자바 - 트윗 수집 및 분석
-Library : Node js/Oracle - 도서관 관리 시스템
-Schedule Chat : C# - 일정관리 메신저 프로그램
