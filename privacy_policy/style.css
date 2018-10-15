@@ -1,0 +1,49 @@
+    .toolbar-background {
+        background-color: #598cc8;
+        color: #fff;
+    }
+
+    .date {
+        position: absolute;
+        top: 0px;
+        right: 10px;
+    }
+
+    .sub-title {
+        font-family: sans-serif;
+        color: #4374ac;
+        font-weight: bold;
+        letter-spacing: -1px;
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 10px;
+        word-break: keep-all;
+    }
+
+    .sub-title:first-child {
+        margin-top: 15px;
+    }
+
+    .emphasis {
+        color: #4374ac;
+        font-weight: bold;
+    }
+
+    pre {
+        font-family: sans-serif;
+        margin-left: 10px;
+        margin-right: 10px;
+        white-space: pre-wrap;
+        word-break: keep-all;
+    }
+
+    .close-box {
+        text-align: center;
+    }
+
+    .close {
+        background-color: #598cc8;
+        color: #fff;
+        min-width: 90px;
+        margin-bottom: 15px;
+    }
