@@ -1,0 +1,6 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, textarea, p, blockquote, th, td, input, select, textarea, button, table {font-size:12px}
+body,html {height:100%}
+
+.wlist > div {width:49.5%;margin:5px 0 0 0}
+.wlist > div:nth-child(even) {margin-left:.5%}
+.wlist > div:nth-child(odd) {margin-right:.5%}

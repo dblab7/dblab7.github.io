@@ -1,0 +1,100 @@
+.pc {display:none}
+.mo {display:block}
+.mo.btn_menu {display:inline}
+.mo .fa:before {display:inline-block;cursor:pointer;position:fixed;top:10px;right:30px;color:#ffa151}
+.left.down.blk {display:none !important}
+.left.down.wht {display:block !important;left:inherit;left:100%;top:0;width:20%;height:100%;opacity:1 !important;background-color:rgba(0,0,0,.6);box-sizing:border-box;}
+.left.wht .ttl {display:none}
+.left.wht .sttl {display:none}
+.left.wht ul {padding-left:30px;}
+.bg1 {height:auto;background-image:url(../images/bg4.png);background-color:#005564;min-width:0}
+.bg1 .wrap {width:100%;height:auto;min-width:0}
+.cont1,.cont2,.cont3,.cont4,#ft {height:auto;min-width:0}
+.cont1 .wrap {padding:100px 50px}
+.cont2 .wrap > .sttl {padding-left:20px}
+.cont2 .wrap > .ttl {padding-left:50px}
+.cont2 {height:auto;overflow:auto;padding:100px 20px}
+.cont2 .wrap {padding:0}
+.cont2 .list1 {width:60%;margin-left:50px;margin:50px 0 0 50px}
+.cont2 .alist > div {width:50%;box-sizing:border-box;padding-right:20px;}
+.cont2 .list2 {width:60%;margin-left:35%}
+.cont2 .btn {margin-left:50px}
+.wrap {padding:100px 50px;width:100%}
+.list_sns {left:inherit;right:50px;top:50px;}
+.list_sns > div {float:left}
+.list_sns > div:first-child {margin-right:10px;}
+.btn_top {right:50px}
+.wlist > div {width:24%;margin:10px 1% 0 0}
+.wlist > div .img {width:100%}
+.wlist .hover {width:100%}
+.cont3 .wlist {padding:40px 0 50px 0}
+.wlist .hover {padding-top:32%}
+.open .mo .fa:before {
+	-webkit-animation: rotate45 1s 1;
+	-webkit-transition-timing-function: ease-in-out;
+	-webkit-animation-fill-mode: both;
+	animation: rotate45 1s 1;
+	transition-timing-function: ease-in-out;
+	animation-fill-mode: both;
+	-moz-animation: rotate45 1s 1;
+	-moz-transition-timing-function: ease-in-out;
+	-moz-animation-fill-mode: both;
+}
+.mo .fa:before {
+	-webkit-animation: rotate90 1s 1;
+	-webkit-transition-timing-function: ease-in-out;
+	-webkit-animation-fill-mode: both;
+	animation: rotate90 1s 1;
+	transition-timing-function: ease-in-out;
+	animation-fill-mode: both;
+	-moz-animation: rotate90 1s 1;
+	-moz-transition-timing-function: ease-in-out;
+	-moz-animation-fill-mode: both;
+}
+.oepn .mo .fa:hover:before {
+	-webkit-animation: rotate0 .8s 1;
+	-webkit-transition-timing-function: ease-in-out;
+	-webkit-animation-fill-mode: both;
+	animation: rotate0 .8s 1;
+	transition-timing-function: ease-in-out;
+	animation-fill-mode: both;
+	-moz-animation: rotate0 .8s 1;
+	-moz-transition-timing-function: ease-in-out;
+	-moz-animation-fill-mode: both;
+}
+@-webkit-keyframes rotate45 {
+	0% {transform:rotate(0deg)}
+	100% {transform:rotate(45deg)}
+}
+@-moz-keyframes rotate45 {
+	0% {transform:rotate(0deg)}
+	100% {transform:rotate(45deg)}
+}
+@keyframes rotate45 {
+	0% {transform:rotate(0deg)}
+	100% {transform:rotate(45deg)}
+}
+@-webkit-keyframes rotate90 {
+	0% {transform:rotate(45deg)}
+	100% {transform:rotate(0deg)}
+}
+@-moz-keyframes rotate90 {
+	0% {transform:rotate(45deg)}
+	100% {transform:rotate(0deg)}
+}
+@keyframes rotate90 {
+	0% {transform:rotate(45deg)}
+	100% {transform:rotate(0deg)}
+}
+@-webkit-keyframes rotate0 {
+	0% {transform:rotate(90deg)}
+	100% {transform:rotate(0deg)}
+}
+@-moz-keyframes rotate0 {
+	0% {transform:rotate(90deg)}
+	100% {transform:rotate(0deg)}
+}
+@keyframes rotate0 {
+	0% {transform:rotate(90deg)}
+	100% {transform:rotate(0deg)}
+}

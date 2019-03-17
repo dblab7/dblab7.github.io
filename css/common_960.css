@@ -1,0 +1,6 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, textarea, p, blockquote, th, td, input, select, textarea, button, table {font-size:14px}
+.cont2 .list1 {width:80%}
+.cont2 .list2 {width:80%;margin-left:20%;}
+.wlist > div {width:33%;margin:5px .5% 0 0}
+.wlist > div:nth-child(3n) {margin-right:0}
+.wlist .hover {padding-top:35%}
