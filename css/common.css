@@ -56,10 +56,10 @@ src:url(../fonts/NotoSansKR-Light-Hestia.otf) format("opentype");
 .cont3 .wrap > .ttl {color:#1c1b19}
 .cont3 .wlist {padding:40px 0 115px 30px;overflow:auto}
 .wlist > div {float:left;position:relative;width:240px;height:auto;box-sizing:border-box;margin:10px 10px 0 0;background-color:#fff}
-.wlist > div img {width:100%;height:100%;}
+.wlist > div img {width:70%;height:90%;padding:5%;}
 .wlist > div .img {width:240px;height:209px;font-size:2.8em;text-align:center;line-height:130px;border:solid 1px #d6d6d6;box-sizing:border-box;}
-.wlist .hover {display:none;position:absolute;top:0;left:0;width:240px;height:100%;background-color:rgba(255,255,255,.95);box-sizing:border-box;border:solid 1px #1c1b19;text-align:center;color:#1c1b19;padding-top:34%;cursor:pointer;}
-.wlist > div:hover .hover {display:block}
+.wlist .hover {display:none;position:absolute;top:0;left:0;width:240px;height:100%;background-color:rgba(255,255,255,.95);box-sizing:border-box;border:solid 1px #1c1b19;text-align:center;color:#1c1b19;cursor:pointer;align-items: center;justify-content: center;flex-direction: column;padding: 0px;}
+.wlist > div:hover .hover {display:flex}
 .wlist .ttl {font-size:1.15em;}
 .wlist .sttl {font-size:.8em;}
 .cont4 {width:100%;height:570px;background-color:#1c1b19;background-image:url(../images/bg3.png);background-position:50% 0;min-width:1080px}
@@ -163,6 +163,7 @@ src:url(../fonts/NotoSansKR-Light-Hestia.otf) format("opentype");
     white-space: nowrap;
     vertical-align: baseline;
     border-radius: .25rem;
+	margin-top: 5%;
 }
 .badge-primary {
     color: #fff;
